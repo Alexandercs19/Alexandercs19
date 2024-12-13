@@ -123,7 +123,6 @@ Here’s a breakdown of the tools, technologies, and frameworks I use regularly 
   </a>
 </p>
 <p align="center">
-  <i>Discover the languages I use most frequently!</i>
 </p>
 
 ---
