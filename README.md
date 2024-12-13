@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🚀 Here's a little about me:
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAGZMS-Ocvc/3F21zfmhppH0rbklcI3chw/view?embed" alt="Alexander's Banner" />
+  <img src="https://via.placeholder.com/800x200.png?text=Alexander" alt="Alexander's Banner" />
 </p>
 
 ---
