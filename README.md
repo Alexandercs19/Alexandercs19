@@ -24,21 +24,36 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
 
 ### 🌐 Connect with Me
 
-<p align="center" style="margin-top: 20px;">
-  <a href="mailto:deivialexander6@gmail.com" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" alt="Email">
+<p align="center">
+  <a href="mailto:deivialexander6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/deivi-serrata-7789b2236" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/deivi-serrata-7789b2236" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white&logoWidth=40" alt="Indeed">
+  <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage" target="_blank">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed">
   </a>
-  <a href="https://yourwebsite.com" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white&logoWidth=40" alt="Portfolio">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
+---
+
+### 📱 Social Media
+
+<p align="center">
+  <a href="https://twitter.com/[yourusername](https://x.com/serratxz_)" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/[yourusername](https://www.instagram.com/serratxz._/)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://discord.com/users/307610186321887232" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 
 ---
 
