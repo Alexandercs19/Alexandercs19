@@ -23,7 +23,9 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
 ---
 
 ### 🌐 Connect with Me
-
+<p align="center">
+  <i>Reach out to me via email, LinkedIn, or check out my portfolio for more information!</i>
+</p>
 <p align="center">
   <a href="mailto:deivialexander6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -38,11 +40,12 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
 ---
 
 ### 📱 Social Media
-
+<p align="center">
+  <i>Let’s connect on my favorite social platforms!</i>
+</p>
 <p align="center">
   <a href="https://x.com/serratxz_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
@@ -54,7 +57,6 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
-
 ---
 
 ### 💻 Tech Stack
@@ -97,11 +99,16 @@ Here’s a breakdown of the tools, technologies, and frameworks I use regularly 
 ---
 
 ### 📈 GitHub Stats
-
+<p align="center">
+  <i>See how consistent I am with my contributions!</i>
+</p>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Alexandercs19&show_icons=true&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api?username=Alexandercs19&show_icons=true&theme=radical" alt="Alexander's GitHub Stats" width="500" />
   </a>
+</p>
+<p align="center">
+  <i>Check out my contributions, commits, and projects over time!</i>
 </p>
 
 <p align="center">
@@ -109,11 +116,13 @@ Here’s a breakdown of the tools, technologies, and frameworks I use regularly 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandercs19&theme=radical" alt="GitHub Streak" width="500" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandercs19&theme=radical">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandercs19&theme=radical" alt="Profile Summary Card" width="800" />
   </a>
+</p>
+<p align="center">
+  <i>Get a detailed summary of my GitHub activity!</i>
 </p>
 
 <p align="center">
@@ -121,6 +130,10 @@ Here’s a breakdown of the tools, technologies, and frameworks I use regularly 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandercs19&layout=donut-vertical&theme=radical" alt="Top Languages" />
   </a>
 </p>
+<p align="center">
+  <i>Discover the languages I use most frequently!</i>
+</p>
+
 ---
 
 Feel free to explore my repositories and connect with me. Let's build something amazing together! 🌟
