@@ -82,9 +82,30 @@ Here’s a breakdown of the tools, technologies, and frameworks I use regularly 
 ---
 
 ### 📈 GitHub Stats
-![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandercs19&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandercs19&layout=compact&theme=radical)
 
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=Alexandercs19&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alexandercs19&show_icons=true&theme=radical" alt="Alexander's GitHub Stats" width="500" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Alexandercs19&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandercs19&theme=radical" alt="GitHub Streak" width="500" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandercs19&theme=radical">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandercs19&theme=radical" alt="Profile Summary Card" width="800" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandercs19&layout=donut-vertical&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandercs19&layout=donut-vertical&theme=radical" alt="Top Languages" />
+  </a>
+</p>
 ---
 
 Feel free to explore my repositories and connect with me. Let's build something amazing together! 🌟
