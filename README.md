@@ -23,10 +23,22 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
 ---
 
 ### 🌐 Connect with Me
-- 📫 How to reach me: [deivialexander6@gmail.com](mailto:deivialexander6@gmail.com)
-- 🌍 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/deivi-serrata-7789b2236)
-- 💻 Indeed: [My Indeed Profile](https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage)
-- 💻 Portfolio: [Your Website](https://yourwebsite.com)
+
+<p align="center" style="margin-top: 20px;">
+  <a href="mailto:deivialexander6@gmail.com" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/deivi-serrata-7789b2236" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" alt="LinkedIn">
+  </a>
+  <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white&logoWidth=40" alt="Indeed">
+  </a>
+  <a href="https://yourwebsite.com" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white&logoWidth=40" alt="Portfolio">
+  </a>
+</p>
+
 
 ---
 
