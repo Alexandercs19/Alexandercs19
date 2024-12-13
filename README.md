@@ -44,10 +44,10 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
 ### 📱 Social Media
 
 <p align="center">
-  <a href="https://twitter.com/(https://x.com/serratxz_)" target="_blank">
+  <a href="https://twitter.com/https://x.com/serratxz_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.instagram.com/(https://www.instagram.com/serratxz._/)" target="_blank">
+  <a href="https://www.instagram.com/https://www.instagram.com/serratxz._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://discord.com/users/307610186321887232" target="_blank">
