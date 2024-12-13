@@ -40,6 +40,7 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
   </a>
 </p>
+
 ---
 
 ### 📱 Social Media
@@ -57,6 +58,7 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
+
 ---
 
 ### 💻 Tech Stack
@@ -91,7 +93,6 @@ Here’s a breakdown of the tools, technologies, and frameworks I use regularly 
 
 ### 📈 GitHub Stats
 <p align="center">
-  <i>See how consistent I am with my contributions!</i>
 </p>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Alexandercs19&show_icons=true&theme=radical">
