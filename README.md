@@ -2,9 +2,8 @@
 
 Welcome to my GitHub profile! 🚀 Here's a little about me:
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Alexander" alt="Alexander's Banner" />
-</p>
+![2](https://github.com/user-attachments/assets/a22f93e2-8734-4532-88b5-e3f8043fa379)
+
 
 ---
 
