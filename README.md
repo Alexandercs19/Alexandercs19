@@ -30,11 +30,42 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
 
 ---
 
-### 🛠️ Tech Stack
-- 💻 **Languages:** C++, Python, JavaScript
-- 🔧 **Tools:** Git, GitHub, VS Code
-- 🌐 **Frameworks:** React, Node.js
-- 🗄️ **Databases:** MySQL, MongoDB
+### 💻 Tech Stack
+Here’s a breakdown of the tools, technologies, and frameworks I use regularly to build efficient and innovative solutions.
+
+---
+
+#### **Languages:**
+| **Language**    | **Badge** |
+|------------------|-----------|
+| **C++**         | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Python**      | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **JavaScript**  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+
+---
+
+#### **Tools:**
+| **Tool**        | **Badge** |
+|------------------|-----------|
+| **Git**         | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **GitHub**      | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **VS Code**     | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+---
+
+#### **Frameworks:**
+| **Framework**   | **Badge** |
+|------------------|-----------|
+| **React**       | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Node.js**     | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
+
+---
+
+#### **Databases:**
+| **Database**    | **Badge** |
+|------------------|-----------|
+| **MySQL**       | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **MongoDB**     | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 ---
 
