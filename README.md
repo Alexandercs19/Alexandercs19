@@ -62,8 +62,6 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
 ### 💻 Tech Stack
 Here’s a breakdown of the tools, technologies, and frameworks I use regularly to build efficient and innovative solutions.
 
----
-
 #### **Languages & Frameworks**
 | **Language/Framework** | **Badge** | **Language/Framework** | **Badge** | **Language/Framework** | **Badge** |
 |-------------------------|-----------|-------------------------|-----------|-------------------------|-----------|
