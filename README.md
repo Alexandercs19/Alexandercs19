@@ -10,7 +10,7 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
 - 🎓 I’m currently studying **Computer Science at Dallas College.**
 - 🌎 I fluently speak **Spanish and English.**
 - 🌍 I’m from **the Dominican Republic**🇩🇴 and currently living in **Dallas, Texas**🇺🇸.
-- 🧑‍🎓 I’m **22 years old.** (Born on March 19, 2002).
+- 🧑‍🎓 I’m **23 years old.** (Born on March 19, 2002).
 - 🔭 I’m currently working on: **Exciting software projects and improving my skills.**
 - 🌱 I’m currently learning: **Java, C++, Python, Web Development, and AI concepts.**
 - 👯 I’m looking to collaborate on: **Open-source projects and innovative ideas.**
