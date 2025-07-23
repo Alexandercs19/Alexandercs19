@@ -65,10 +65,8 @@ Here’s a breakdown of the tools, technologies, and frameworks I use regularly 
 #### **Languages & Frameworks**
 | **Language/Framework** | **Badge** | **Language/Framework** | **Badge** | **Language/Framework** | **Badge** |
 |-------------------------|-----------|-------------------------|-----------|-------------------------|-----------|
-| **C++**                | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | **Python**              | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | **Java**                | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
-| **JavaScript**          | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | **React**               | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |                       |                       |
-
----
+| **C++**                | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | **Python**              | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | **JavaScript**          | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **React**               | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |                         |                       |                         |                       |
 
 #### **Tools**
 | **Tool**     | **Badge**                                                                                       |
@@ -82,7 +80,7 @@ Here’s a breakdown of the tools, technologies, and frameworks I use regularly 
 #### **Databases**
 | **Database**           | **Badge**                                                                                   |
 |-------------------------|---------------------------------------------------------------------------------------------|
-| **Microsoft SQL**       | ![Microsoft SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| **PostgreSQL**          | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **MongoDB**             | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 ---
