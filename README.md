@@ -8,117 +8,137 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
 
 ### 🌟 About Me
 - 🎓 I’m currently studying **Computer Science at Dallas College.**
-- 🌎 I fluently speak **Spanish and English.**
-- 🌍 I’m from **the Dominican Republic**🇩🇴 and currently living in **Dallas, Texas**🇺🇸.
-- 🧑‍🎓 I’m **23 years old.** (Born on March 19, 2002).
-- 🔭 I’m currently working on: **Exciting software projects and improving my skills.**
+- 🗣️ I fluently speak **Spanish and English.**
+- 🌍 From the Dominican Republic 🇩🇴 | Based in Dallas, TX 🇺🇸
+- 💡 Interested in **software engineering, backend development, and full-stack applications**
 - 🌱 I’m currently learning: **C++, Python, Web Development, and AI concepts.**
 - 👯 I’m looking to collaborate on: **Open-source projects and innovative ideas.**
-- 💬 Ask me about: **Software engineering, problem-solving, and anything tech-related.**
-- 💻 I have a deep passion for **technology, cinema, and music.**
+- 💻 I have a deep passion for **technology, cinema, music and F1.**
 - ⚡ Fun fact: **I enjoy a good croissant while working on creative projects.**
 
 ---
-
-### 🌐 Connect with Me
-<p align="center">
-  <i>Reach out to me via email, LinkedIn, or check out my portfolio for more information!</i>
+## 🏆 GitHub Profile Highlights
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alexandercs19&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+## 🤝 Connect with Me
 <p align="center">
-  <a href="mailto:deivialexander6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/deivi-serrata-7789b2236" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
-  <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage" target="_blank">
-    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed">
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage](https://profile.indeed.com/p/deivic-hsjpbtd)" target="_blank">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" height="42"/>
   </a>
 </p>
 
 ---
 
-### 📱 Social Media
+## 💻 Tech Stack
+
+### 🧠 Programming Languages
 <p align="center">
-  <i>Let’s connect on my favorite social platforms!</i>
+<table align="center">
+  <tr>
+    <td align="center"><b>C++</b><br/><img src="https://skillicons.dev/icons?i=cpp"/></td>
+    <td align="center"><b>Python</b><br/><img src="https://skillicons.dev/icons?i=py"/></td>
+    <td align="center"><b>JavaScript</b><br/><img src="https://skillicons.dev/icons?i=js"/></td>
+    <td align="center"><b>C#</b><br/><img src="https://skillicons.dev/icons?i=cs"/></td>
+  </tr>
+</table>
 </p>
+
+<br/>
+
+### ⚙️ Frameworks & Libraries
 <p align="center">
-  <a href="https://x.com/serratxz_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/serratxz._/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://discord.com/users/307610186321887232" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+<table align="center">
+  <tr>
+    <td align="center"><b>React</b><br/><img src="https://skillicons.dev/icons?i=react"/></td>
+    <td align="center"><b>Angular</b><br/><img src="https://skillicons.dev/icons?i=angular"/></td>
+    <td align="center"><b>AngularJS</b><br/><img src="https://skillicons.dev/icons?i=angular"/></td>
+    <td align="center"><b>Django</b><br/><img src="https://skillicons.dev/icons?i=django"/></td>
+    <td align="center"><b>Node.js</b><br/><img src="https://skillicons.dev/icons?i=nodejs"/></td>
+  </tr>
+</table>
 </p>
+
+<br/>
+
+### 🎨 UI / Styling
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center"><b>Bootstrap</b><br/><img src="https://skillicons.dev/icons?i=bootstrap"/></td>
+    <td align="center"><b>Tailwind CSS</b><br/><img src="https://skillicons.dev/icons?i=tailwind"/></td>
+    <td align="center"><b>Figma</b><br/><img src="https://skillicons.dev/icons?i=figma"/></td>
+  </tr>
+</table>
+</p>
+
+<br/>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center"><b>Git</b><br/><img src="https://skillicons.dev/icons?i=git"/></td>
+    <td align="center"><b>GitHub</b><br/><img src="https://skillicons.dev/icons?i=github"/></td>
+    <td align="center"><b>Postman</b><br/><img src="https://skillicons.dev/icons?i=postman"/></td>
+  </tr>
+</table>
+</p>
+
+<br/>
+
+### 🗄️ Databases
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center"><b>MySQL</b><br/><img src="https://skillicons.dev/icons?i=mysql"/></td>
+    <td align="center"><b>PostgreSQL</b><br/><img src="https://skillicons.dev/icons?i=postgres"/></td>
+    <td align="center"><b>MongoDB</b><br/><img src="https://skillicons.dev/icons?i=mongodb"/></td>
+    <td align="center"><b>SQLite</b><br/><img src="https://skillicons.dev/icons?i=sqlite"/></td>
+    <td align="center"><b>Oracle</b><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+    </td>
+  </tr>
+</table>
+</p>
+
+<br/>
 
 ---
 
-### 💻 Tech Stack
-Here’s a breakdown of the tools, technologies, and frameworks I use regularly to build efficient and innovative solutions.
-
-#### **Languages & Frameworks**
-| **Language/Framework** | **Badge** | **Language/Framework** | **Badge** | **Language/Framework** | **Badge** |
-|-------------------------|-----------|-------------------------|-----------|-------------------------|-----------|
-| **C++**                | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | **Python**              | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | **JavaScript**          | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **React**               | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |                         |                       |                         |                       |
-
-#### **Tools**
-| **Tool**     | **Badge**                                                                                       |
-|--------------|-------------------------------------------------------------------------------------------------|
-| **Git**      | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)    |
-| **GitHub**   | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **VS Code**  | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
----
-
-#### **Databases**
-| **Database**           | **Badge**                                                                                   |
-|-------------------------|---------------------------------------------------------------------------------------------|
-| **PostgreSQL**          | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **MongoDB**             | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-
----
-
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-</p>
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Alexandercs19&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alexandercs19&show_icons=true&theme=radical" alt="Alexander's GitHub Stats" width="500" />
-  </a>
-</p>
-<p align="center">
-  <i>Check out my contributions, commits, and projects over time!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandercs19&show_icons=true&theme=radical" width="500"/>
 </p>
 
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Alexandercs19&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandercs19&theme=radical" alt="GitHub Streak" width="500" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandercs19&theme=radical" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandercs19&layout=compact&theme=radical"/>
 </p>
 <p align="center">
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandercs19&theme=radical">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandercs19&theme=radical" alt="Profile Summary Card" width="800" />
   </a>
 </p>
-<p align="center">
-  <i>Get a detailed summary of my GitHub activity!</i>
-</p>
-
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandercs19&layout=donut-vertical&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandercs19&layout=donut-vertical&theme=radical" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-</p>
 
 ---
 
-Feel free to explore my repositories and connect with me. Let's build something amazing together! 🌟
+<p align="center">
+  <strong style="font-size: 2.3em;">
+   ⭐ Always learning. Always building.
+  </strong><br/>
+  <em>
+    Turning curiosity into clean, scalable software — one project at a time.
+  </em>
+</p>
