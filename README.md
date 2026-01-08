@@ -1,41 +1,29 @@
-# Hi there! 👋 I'm Alexander
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Alexander%20Serrata&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-Welcome to my GitHub profile! 🚀 Here's a little about me:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%AD%90%EF%B8%8FAlways%20Learning%20Always%20Building." alt="Typing introduction" />
+</p>
 
-![2](https://github.com/user-attachments/assets/a22f93e2-8734-4532-88b5-e3f8043fa379)
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=alexandercs19">
+    <img src="https://komarev.com/ghpvc/?username=alexandercs19&label=Profile%20views&color=00FFFF&style=flat-square" alt="alexandercs19's profile views" />
+  </a>
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
-### 🌟 About Me
+## 📌 About Me
 - 🎓 I’m currently studying **Computer Science at Dallas College.**
 - 🗣️ I fluently speak **Spanish and English.**
 - 🌍 From the Dominican Republic 🇩🇴 | Based in Dallas, TX 🇺🇸
-- 💡 Interested in **software engineering, backend development, and full-stack applications**
-- 🌱 I’m currently learning: **C++, Python, Web Development, and AI concepts.**
-- 👯 I’m looking to collaborate on: **Open-source projects and innovative ideas.**
 - 💻 I have a deep passion for **technology, cinema, music and F1.**
 - ⚡ Fun fact: **I enjoy a good croissant while working on creative projects.**
 
----
-## 🏆 GitHub Profile Highlights
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alexandercs19&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
 
----
-
-## 🤝 Connect with Me
-<p align="center">
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/deivi-serrata-7789b2236" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage](https://profile.indeed.com/p/deivic-hsjpbtd)" target="_blank">
-    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" height="42"/>
-  </a>
-</p>
-
+## 🧠 My Focus Areas
+- 💡 Interested in **software engineering, backend development, and full-stack applications**
+- 🌱 I’m currently learning: **C++, Python, Web Development, and AI concepts.**
+- 👯 I’m looking to collaborate on: **Open-source projects and innovative ideas.**
 ---
 
 ## 💻 Tech Stack
@@ -114,31 +102,26 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandercs19&show_icons=true&theme=radical" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandercs19&theme=radical" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandercs19&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandercs19&show_icons=true&theme=monokai&hide_border=true&count_private=true&cache_seconds=86400" alt="alexandercs19's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=alexandercs19&theme=monokai&hide_border=true&cache_seconds=86400" alt="alexandercs19's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandercs19&theme=radical">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandercs19&theme=radical" alt="Profile Summary Card" width="800" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=alexandercs19&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Alexander Serrata's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=alexandercs19&theme=monokai&radius=10" alt="alexandercs19's Activity Graph" />
 </p>
 
 ---
 
-<p align="center">
-  <strong style="font-size: 2.3em;">
-   ⭐ Always learning. Always building.
-  </strong><br/>
-  <em>
-    Turning curiosity into clean, scalable software — one project at a time.
-  </em>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
